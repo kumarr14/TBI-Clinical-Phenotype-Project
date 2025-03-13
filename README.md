@@ -1,0 +1,1 @@
+The file "PCA and HCPC_20231215 (FINAL CODE IMPLEMENTED).R" is the code we used to generate TBI clinical phenotypes. It follows an analytic pipeline of missing data imputation, PCA for dimension reduction of clinical variables, and hierarchical cluster analysis on principal components (HCPC) to group individuals with TBI into meaningful groups.
